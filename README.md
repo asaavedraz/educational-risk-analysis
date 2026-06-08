@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Educational Risk Analysis
 
 ## Descripción
@@ -36,3 +37,6 @@ educational-risk-analysis
 ## Estado
 
 Proyecto en desarrollo.
+
+# educational-risk-analysis
+>>>>>>> 0b10cab1795377fb8aeab2255bdb691b58703fe7
